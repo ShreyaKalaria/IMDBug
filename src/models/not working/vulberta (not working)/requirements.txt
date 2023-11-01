@@ -192,7 +192,7 @@ torchaudio==0.7.0
 torchtext==0.8.0
 #torchvision==0.8.1+cu101
 torchvision==0.8.1+cpu
-tornado==6.0.4
+tornado==6.3.3
 tqdm==4.51.0
 traitlets==5.0.5
 transformers==4.4.1
@@ -208,7 +208,7 @@ wcwidth==0.2.5
 webencodings==0.5.1
 websocket-client==0.57.0
 websockets==10.2
-Werkzeug==1.0.1
+Werkzeug==3.0.1
 wrapt==1.12.1
 xxhash==2.0.2
 zipp==3.6.0
