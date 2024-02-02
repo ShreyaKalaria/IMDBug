@@ -24,7 +24,7 @@ click==7.1.2
 cloudpickle==1.6.0
 configparser==5.0.1
 cpgqls-client==0.0.7
-cryptography==3.2.1
+cryptography==42.0.2
 cssselect==1.1.0
 cycler==0.10.0
 dacite==1.6.0
@@ -114,7 +114,7 @@ pathtools==0.1.2
 pexpect==4.8.0
 phply==1.2.5
 pickleshare==0.7.5
-Pillow==8.0.1
+Pillow==10.2.0
 ply==3.11
 prometheus-client==0.8.0
 prometheus-flask-exporter==0.18.1
@@ -195,7 +195,7 @@ torchvision==0.8.1+cpu
 tornado==6.0.4
 tqdm==4.51.0
 traitlets==5.0.5
-transformers==4.4.1
+transformers==4.37.0
 transformers-interpret==0.5.2
 triton==1.1.1
 typing==3.7.4.3
