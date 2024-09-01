@@ -202,7 +202,7 @@ typing==3.7.4.3
 typing-extensions==3.7.4.3
 urllib3==1.25.11
 w3lib==1.22.0
-wandb==0.10.12
+wandb==0.15.12
 watchdog==0.10.4
 wcwidth==0.2.5
 webencodings==0.5.1
