@@ -55,7 +55,7 @@ google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
 googledrivedownloader==0.4
 gorilla==0.3.0
-grpcio==1.42.0
+grpcio==1.58.3
 gunicorn==20.0.4
 h5py==3.1.0
 huggingface-hub==0.0.15
@@ -89,7 +89,7 @@ Markdown==3.3.6
 MarkupSafe==1.1.1
 matplotlib==3.3.3
 mistune==0.8.4
-mlflow==1.11.0
+mlflow==2.17.0rc0
 msrest==0.6.19
 multiprocess==0.70.12.2
 nbclient==0.5.1
