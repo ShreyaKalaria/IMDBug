@@ -40,7 +40,7 @@ docker==4.3.1
 docker-pycreds==0.4.0
 entrypoints==0.3
 fake-useragent==0.1.11
-filelock==3.0.12
+filelock==3.20.1
 Flask==1.1.2
 flatbuffers==2.0
 flawfinder==2.0.18
@@ -192,7 +192,7 @@ torchaudio==0.7.0
 torchtext==0.8.0
 #torchvision==0.8.1+cu101
 torchvision==0.8.1+cpu
-tornado==6.0.4
+tornado==6.5.3
 tqdm==4.51.0
 traitlets==5.0.5
 transformers==4.4.1
