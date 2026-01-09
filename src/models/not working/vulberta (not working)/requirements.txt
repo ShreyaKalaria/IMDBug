@@ -89,7 +89,7 @@ Markdown==3.3.6
 MarkupSafe==1.1.1
 matplotlib==3.3.3
 mistune==0.8.4
-mlflow==1.11.0
+mlflow==3.8.0rc0
 msrest==0.6.19
 multiprocess==0.70.12.2
 nbclient==0.5.1
@@ -182,7 +182,7 @@ testpath==0.4.4
 threadpoolctl==2.1.0
 tokenizers==0.10.1
 #torch==1.7.0+cu101
-torch==1.7.0+cpu
+torch==2.9.0+cpu
 torch-cluster==1.5.8
 torch-geometric==1.6.3
 torch-scatter==2.0.5
@@ -200,7 +200,7 @@ transformers-interpret==0.5.2
 triton==1.1.1
 typing==3.7.4.3
 typing-extensions==3.7.4.3
-urllib3==1.25.11
+urllib3==2.6.3
 w3lib==1.22.0
 wandb==0.10.12
 watchdog==0.10.4
