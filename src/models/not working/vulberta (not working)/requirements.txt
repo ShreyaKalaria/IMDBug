@@ -6,7 +6,7 @@ ase==3.20.1
 astunparse==1.6.3
 async-generator==1.10
 attrs==20.2.0
-azure-core==1.8.2
+azure-core==1.38.0
 azure-storage-blob==12.5.0
 backcall==0.2.0
 beautifulsoup4==4.10.0
@@ -40,7 +40,7 @@ docker==4.3.1
 docker-pycreds==0.4.0
 entrypoints==0.3
 fake-useragent==0.1.11
-filelock==3.0.12
+filelock==3.20.3
 Flask==1.1.2
 flatbuffers==2.0
 flawfinder==2.0.18
@@ -89,7 +89,7 @@ Markdown==3.3.6
 MarkupSafe==1.1.1
 matplotlib==3.3.3
 mistune==0.8.4
-mlflow==1.11.0
+mlflow==3.5.0rc0
 msrest==0.6.19
 multiprocess==0.70.12.2
 nbclient==0.5.1
@@ -208,7 +208,7 @@ wcwidth==0.2.5
 webencodings==0.5.1
 websocket-client==0.57.0
 websockets==10.2
-Werkzeug==1.0.1
+Werkzeug==3.1.5
 wrapt==1.12.1
 xxhash==2.0.2
 zipp==3.6.0
