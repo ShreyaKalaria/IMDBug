@@ -89,11 +89,11 @@ Markdown==3.3.6
 MarkupSafe==1.1.1
 matplotlib==3.3.3
 mistune==0.8.4
-mlflow==1.11.0
+mlflow==3.4.0rc0
 msrest==0.6.19
 multiprocess==0.70.12.2
 nbclient==0.5.1
-nbconvert==6.0.7
+nbconvert==7.17.0
 nbformat==5.0.8
 nest-asyncio==1.4.2
 networkx==2.5
@@ -120,7 +120,7 @@ prometheus-client==0.8.0
 prometheus-flask-exporter==0.18.1
 promise==2.3
 prompt-toolkit==3.0.8
-protobuf==3.13.0
+protobuf==5.29.6
 psutil==5.7.3
 ptyprocess==0.6.0
 pyarrow==5.0.0
